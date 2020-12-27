@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<student>
+<stud>
+<name>sahani</name>
+<class>mscict</class>
+<address>surat</address>
+</stud>
+<stud>
+<name>brijesh</name>
+<class>mscit</class>
+<address>amroli</address>
+</stud>
+<stud>
+<name>keyur</name>
+<class>mscict</class>
+<address>surat</address>
+</stud>
+<stud>
+<name>vruk</name>
+<class>mscit</class>
+<address>amroli</address>
+</stud>
+</student>
